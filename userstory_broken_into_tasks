@@ -1,0 +1,20 @@
+userstory:
+I as a client want to interact with the product via my web browser, so that I don't have to install
+tasks:
+* get a web server started
+* get a JEE server started
+* write a servlet
+* write a webpage
+* write user documentation for webpage
+* test webpage visibility
+* test non-existent functionality
+
+userstory:
+I as a client want to see a list of movies, ...
+tasks:
+* test
+* doc
+* write
+
+
+git, log4j/slf4?, embedded server => maven?
